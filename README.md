@@ -15,7 +15,7 @@ You can reach me at inezleon4@gmail.com
 
 Or on LinkedIn at https://www.linkedin.com/in/inez-leon/
 
-[Here is my resume]([url](https://docs.google.com/document/d/1oYX5ZeP2_LDpvcuAPyNBQAA6gcSyHH4sbZ-Um5k0g8E/edit?usp=sharing))
+Here is my resume: https://docs.google.com/document/d/1oYX5ZeP2_LDpvcuAPyNBQAA6gcSyHH4sbZ-Um5k0g8E/edit?usp=sharing
 
 <!--
 **ileon4/ileon4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
