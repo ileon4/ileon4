@@ -6,8 +6,16 @@ My skills include data cleaning, statistical analysis, predictive modeling, and 
 
 I’m passionate about applying analytics to initiatives that connect people and foster community—especially across media and non-profit sectors. My goal is to help brands and organizations use data not just to optimize operations, but to create meaningful social and cultural impact.
 
+Fun Facts:
+I love to indoor boulder and practice calisthenics.
+I'm passionate about naturopathy and herbalism.
+I'd love to pursue further education in AI and robotics.
+
 You can reach me at inezleon4@gmail.com
+
 Or on LinkedIn at https://www.linkedin.com/in/inez-leon/
+
+[Here is my resume]([url](https://docs.google.com/document/d/1oYX5ZeP2_LDpvcuAPyNBQAA6gcSyHH4sbZ-Um5k0g8E/edit?usp=sharing))
 
 <!--
 **ileon4/ileon4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
